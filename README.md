@@ -5,6 +5,8 @@
 ## 已发布专题
 
 - [CSS BFC - zy](https://github.com/Hzyhhh/Researching)
+- [React+hooks基本原理 - gq](https://juejin.im/post/5cfa29e151882539c33e4f5e)
+- [动态表单存储及拓展 - zj](https://github.com/GDJiaMi/researching/blob/master/sources/%E5%8A%A8%E6%80%81%E8%A1%A8%E5%8D%95%E5%AD%98%E5%82%A8%E5%8F%8A%E6%8B%93%E5%B1%95.md)
 
 <br/>
 
@@ -13,12 +15,10 @@
 不分优先级
 
 - (gq) Web UI for CLI
-- (gq) React+hooks基本原理
 - (gq) codesandbox基本原理 
 - (gq) 长列表的性能优化
 - (gq) Electron 进程间基本方式
 - (gq) React Fiber
-- (zj) 动态表单存储及拓展
 - (zj) React 组件优化
 
 <br/>
